@@ -4,6 +4,7 @@ The Console-Based Bookstore Management System is a straightforward console appli
 
 
 Key Features:
+
 1.User Authentication:
     Registration: Users register by providing their phone number as a username and setting a password. Validation ensures that the phone number is unique and correctly formatted.
     Login: Users log in using their phone number and password to access the bookstore.
